@@ -43,7 +43,7 @@ Built to understand controlled components, validation logic, and React state man
 
 ## 📂 Project Structure
 ```
-Registration-Form/
+ReactJS-Project-Form-Validation/
 │
 ├── src/
 │ ├── components/
@@ -67,14 +67,14 @@ Registration-Form/
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/your-username/react-registration-form.git
+git clone https://github.com/godhaniyaarbham2000-spec/ReactJS-Project-Form-Validation.git
 ```
 
 
 
 ### 2. Move to project folder
 ```
-cd react-registration-form
+cd ReactJS-Project-Form-Validation
 ```
 
 
