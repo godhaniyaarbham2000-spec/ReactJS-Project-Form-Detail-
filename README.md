@@ -1,7 +1,7 @@
 # 📝 ReactJS Registration Form Project
 
 A modern **React + Vite Registration Form** with full form validation, error handling, and success submission display.  
-Built to understand controlled components, validation logic, and React state management.
+Built to understand controlled components, validation logic, and React state management. 
 
 ---
 
